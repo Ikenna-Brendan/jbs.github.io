@@ -191,23 +191,25 @@ const About = () => {
           </div>
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
             <div className="bg-gray-50 p-8 rounded-xl">
-              <h3 className="text-2xl font-bold text-gray-900 mb-4">Head Office - Lagos</h3>
+              <h3 className="text-2xl font-bold text-gray-900 mb-4">Head Office - Abuja</h3>
               <div className="space-y-2 text-gray-600">
-                <p>123 Environmental Way</p>
-                <p>Victoria Island, Lagos</p>
+                <p>Suite 35b Silla Zeka Plaza</p>
+                <p>By 29 Adebayo Adedeji Crescent</p>
+                <p>Utako, Amac, FCT Abuja</p>
                 <p>Nigeria</p>
-                <p className="mt-4 font-medium">Phone: +234 (0) 123 456 7890</p>
-                <p className="font-medium">Email: lagos@johnbabs.com</p>
+                <p className="mt-4 font-medium">Phone: +234 (0) 802 219 2956</p>
+                <p className="font-medium">Email: johnbabsenvironmental@gmail.com</p>
               </div>
             </div>
             <div className="bg-gray-50 p-8 rounded-xl">
               <h3 className="text-2xl font-bold text-gray-900 mb-4">Annex Office - Abuja</h3>
               <div className="space-y-2 text-gray-600">
-                <p>456 Federal Way</p>
-                <p>Central Business District, Abuja</p>
+                <p>Plot 32</p>
+                <p>Road 7 Rumuagholu</p>
+                <p>Port Harcourt, Rivers State</p>
                 <p>Nigeria</p>
-                <p className="mt-4 font-medium">Phone: +234 (0) 987 654 3210</p>
-                <p className="font-medium">Email: abuja@johnbabs.com</p>
+                <p className="mt-4 font-medium">Phone: +234 (0) 802 219 2956</p>
+                <p className="font-medium">Email: johnbabsenvironmental@gmail.com</p>
               </div>
             </div>
           </div>

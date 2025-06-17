@@ -53,17 +53,17 @@ const Footer = () => {
               <div className="flex items-start space-x-3">
                 <MapPin className="h-4 w-4 text-emerald-400 mt-1 flex-shrink-0" />
                 <div className="text-sm text-gray-300">
-                  <p>Head Office: Lagos, Nigeria</p>
-                  <p>Annex: Abuja, Nigeria</p>
+                  <p>Head Office: Abuja, Nigeria</p>
+                  <p>Annex: Rivers State, Nigeria</p>
                 </div>
               </div>
               <div className="flex items-center space-x-3">
                 <Phone className="h-4 w-4 text-emerald-400 flex-shrink-0" />
-                <span className="text-sm text-gray-300">+234 (0) 123 456 7890</span>
+                <span className="text-sm text-gray-300">+234 (0) 802 219 2956</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="h-4 w-4 text-emerald-400 flex-shrink-0" />
-                <span className="text-sm text-gray-300">info@johnbabs.com</span>
+                <span className="text-sm text-gray-300">johnbabsenvironmental@gmail.com</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Clock className="h-4 w-4 text-emerald-400 flex-shrink-0" />

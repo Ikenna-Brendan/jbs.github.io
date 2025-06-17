@@ -28,19 +28,19 @@ const Contact = () => {
   const offices = [
     {
       name: 'Head Office',
-      city: 'Lagos',
-      address: '123 Environmental Way, Victoria Island, Lagos, Nigeria',
-      phone: '+234 (0) 123 456 7890',
-      email: 'lagos@johnbabs.com',
+      city: 'Abuja',
+      address: 'Suite 35b Silla Zeka Plaza, By 29 Adebayo Adedeji Crescent, Utako, Amac, FCT Abuja, Nigeria',
+      phone: '+234 (0) 802 219 2956',
+      email: 'johnbabsenvironmental@gmail.com',
       hours: 'Mon-Fri: 8:00 AM - 6:00 PM',
       image: 'https://images.pexels.com/photos/3621104/pexels-photo-3621104.jpeg?auto=compress&cs=tinysrgb&w=800'
     },
     {
       name: 'Annex Office',
       city: 'Abuja',
-      address: '456 Federal Way, Central Business District, Abuja, Nigeria',
-      phone: '+234 (0) 987 654 3210',
-      email: 'abuja@johnbabs.com',
+      address: 'Plot 32, Road 7 Rumuagholu, Port Harcourt, Rivers State, Nigeria',
+      phone: '+234 (0) 802 219 2956',
+      email: 'johnbabsenvironmental@gmail.com',
       hours: 'Mon-Fri: 8:00 AM - 6:00 PM',
       image: 'https://images.pexels.com/photos/3862132/pexels-photo-3862132.jpeg?auto=compress&cs=tinysrgb&w=800'
     }
@@ -84,8 +84,8 @@ const Contact = () => {
                     </div>
                     <div>
                       <h3 className="font-semibold mb-1">Phone</h3>
-                      <p className="text-emerald-100">+234 (0) 123 456 7890</p>
-                      <p className="text-emerald-100">+234 (0) 987 654 3210</p>
+                      <p className="text-emerald-100">+234 (0) 802 219 2956</p>
+                      <p className="text-emerald-100">+234 (0) 802 219 2956</p>
                     </div>
                   </div>
                   
@@ -95,8 +95,8 @@ const Contact = () => {
                     </div>
                     <div>
                       <h3 className="font-semibold mb-1">Email</h3>
-                      <p className="text-emerald-100">info@johnbabs.com</p>
-                      <p className="text-emerald-100">projects@johnbabs.com</p>
+                      <p className="text-emerald-100">info@jbees.ng</p>
+                      <p className="text-emerald-100">johnbabsenvironmental@gmail.com</p>
                     </div>
                   </div>
                   
@@ -106,8 +106,8 @@ const Contact = () => {
                     </div>
                     <div>
                       <h3 className="font-semibold mb-1">Locations</h3>
-                      <p className="text-emerald-100">Lagos (Head Office)</p>
-                      <p className="text-emerald-100">Abuja (Annex)</p>
+                      <p className="text-emerald-100">Abuja (Head Office)</p>
+                      <p className="text-emerald-100">Rivers (Annex)</p>
                     </div>
                   </div>
                   
@@ -317,7 +317,7 @@ const Contact = () => {
               Find Us on the Map
             </h2>
             <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-              Our strategic locations in Lagos and Abuja allow us to serve clients across Nigeria effectively.
+              Our strategic locations in Abuja and Rivers allow us to serve clients across Nigeria effectively.
             </p>
           </div>
           <div className="bg-gray-200 rounded-xl h-96 flex items-center justify-center">
@@ -325,7 +325,7 @@ const Contact = () => {
               <MapPin className="h-16 w-16 text-emerald-600 mx-auto mb-4" />
               <p className="text-gray-600 text-lg">Interactive map will be embedded here</p>
               <p className="text-gray-500 text-sm mt-2">
-                Google Maps integration showing both Lagos and Abuja office locations
+                Google Maps integration showing both Abuja and Rivers office locations
               </p>
             </div>
           </div>
